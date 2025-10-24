@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+data/raw/*
+data/processed/*
+models/*
+notebooks/*
